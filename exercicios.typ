@@ -2,7 +2,7 @@ B:Exercícios aleatórios
 D:canção tia constante mortadela querência
  :tolerância ócio Qual vinho dele
  :leito pão Justiceiro Porção Desta
- :Pois Lento Youtube Tão Dói
+ :Pois Lento YouTube Tão Dói
  :Venda Xis decágono Junho
  :imundo loção ilícito atol.
  :Nho, nha, nhi, Nhonho kill
