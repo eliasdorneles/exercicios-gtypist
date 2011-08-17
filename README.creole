@@ -1,0 +1,8 @@
+= Exercícios para o GNU Typist =
+
+Reúno aqui alguns exercícios num arquivo de lição do GNU Typist para quem quer treinar digitação em português.
+A idéia era fazer algo que fosse um exercício divertido de fazer, e complicado o suficiente para fazer o digitador ir devagar.
+
+Elias
+
+Página do projeto: https://github.com/eliasdorneles/exercicios-gtypist
