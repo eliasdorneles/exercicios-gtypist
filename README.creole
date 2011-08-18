@@ -1,13 +1,13 @@
 = Exercícios para o GNU Typist =
 
-O [http://www.gnu.org/software/gtypist/|GNU Typist] é um excelente software para aprender a digitar corretamente.
+O [[http://www.gnu.org/software/gtypist/|GNU Typist]] é um excelente software para aprender a digitar corretamente.
 Aprender a digitar utilizando os dedos certos para as teclas é uma maneira interessante de perceber a memória muscular funcionando, redescobrir como um pouquinho de disciplina traz bons resultados mais tarde, e pra quem pega o gosto, rende uma boa diversão. :)
 
-Reúno aqui alguns exercícios num arquivo de lição do [http://www.gnu.org/software/gtypist/|GNU Typist] para quem quer treinar digitação em português.  A idéia era fazer algo que fosse um exercício divertido de fazer, e complicado o suficiente para fazer o digitador ir devagar.
+Reúno aqui alguns exercícios num arquivo de lição do [[http://www.gnu.org/software/gtypist/|GNU Typist]] para quem quer treinar digitação em português.  A idéia era fazer algo que fosse um exercício divertido de fazer, e complicado o suficiente para fazer o digitador ir devagar.
 
 Página oficial: https://github.com/eliasdorneles/exercicios-gtypist
 
 
 = Mais GNU Typist em português =
 
-[http://www.inf.ufsc.br/~adiel/pt/|Adiel Mittman] montou o texto de "Os Lusíadas" em várias lições para o GNU Typist, que também é legal para quem quer treinar: http://www.inf.ufsc.br/~adiel/pt/misc/lusiadas/
+[[http://www.inf.ufsc.br/~adiel/pt/|Adiel Mittman]] montou o texto de "Os Lusíadas" em várias lições para o GNU Typist, que também é legal para quem quer treinar: http://www.inf.ufsc.br/~adiel/pt/misc/lusiadas/
